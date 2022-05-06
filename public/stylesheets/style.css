@@ -1,8 +1,23 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding: 20px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: brown;
+}
+
+footer {
+  text-align: center;
+}
+
+h1 {
+  color: blueviolet;
+  font: 40px Arial;
+  text-align:center;
 }
 
 a {
-  color: #00B7FF;
+  margin-left: 20px;
+  color: red;
+  margin-right: 20px;
+  font-family: "Times New Roman";
 }
